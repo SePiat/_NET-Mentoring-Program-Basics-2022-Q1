@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <SomeInt>777</SomeInt>
+  <SomeTimespan>00:01:17</SomeTimespan>
+  <SomeString>Example of a string</SomeString>
+  <SomeFloat>1234</SomeFloat>
+</configuration>
